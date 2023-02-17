@@ -1,0 +1,26 @@
+{
+  "name": "exercicio_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mribas95/exercicio_11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mribas95/exercicio_11/issues"
+  },
+  "homepage": "https://github.com/mribas95/exercicio_11#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
